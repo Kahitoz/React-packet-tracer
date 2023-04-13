@@ -8,3 +8,14 @@
     align-self:center;
     text-align: center;
 }
+
+.box{
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+}
+.button{
+     margin-left: 48%;
+     background-color: red;
+     color: white;
+}
